@@ -1,0 +1,143 @@
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+gemini request failed: 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+gemini attempt 1/4 failed: 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+gemini attempt 2/4 failed: 503 {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+⚠ Missing `origin` header from a forwarded Server Actions request.
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+yg_my_activity failed: Not authenticated
+yg_get_poll failed: JWT issued at future
+⚠ Missing `origin` header from a forwarded Server Actions request.
+password reset email failed: Email address "you@youpulse.app" is invalid
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+yg_auth_rate_limit failed: column reference "attempts" is ambiguous
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+password reset email failed: email rate limit exceeded
+⚠ Missing `origin` header from a forwarded Server Actions request.
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+⚠ Missing `origin` header from a forwarded Server Actions request.
+sign-in failed: Invalid login credentials
+yg_my_activity failed: Not authenticated
